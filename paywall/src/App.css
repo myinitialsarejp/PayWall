@@ -14,7 +14,9 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url("./Assets/red-brick-wall-pattern-texture.jpg");
+  background-position: center;
+  background-size: 100%;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
